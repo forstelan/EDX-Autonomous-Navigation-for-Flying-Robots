@@ -1,0 +1,14 @@
+# ignore OS X system files
+.DS_Store
+
+# ignore image files
+*.eps
+*.png
+*.jgp
+
+# ignore all output logging files
+*.log
+
+# ignore all R workspace data
+.RData
+.Rhistory
